@@ -21,12 +21,13 @@ My goal is to get started in project/team management or to just be a very versat
 - Python (intermediate to advanced)
 - HTML (intermediate to advanced)
 - SQL (intermediate to advanced)
-- CSS (beginner to intermediate)
+- PHP (beginner to intermediate)
+- JavaScript (beginner to intermediate)
+- TypeScript (beginner)
 - VBA (beginner)
 
 ### These are the languages I'd like to learn:
 - LUA
 - Kotlin
-- JavaScript
 - Ruby
 - C#
