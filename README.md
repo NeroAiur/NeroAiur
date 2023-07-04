@@ -19,10 +19,9 @@ My goal is to get started in project/team management or to just be a very versat
 # My Languages
 ### These are the language I know:
 - Python (intermediate to advanced)
-- HTML (intermediate to advanced)
-- SQL (intermediate to advanced)
-- PHP (beginner to intermediate)
-- JavaScript (beginner to intermediate)
+- SQL (intermediate)
+- PHP (beginner)
+- JavaScript (beginner)
 - TypeScript (beginner)
 - VBA (beginner)
 
