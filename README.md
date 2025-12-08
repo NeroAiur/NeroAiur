@@ -25,7 +25,7 @@ I also have an unreasonable huge love for Markdown.
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white)
 
 ## Operations
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white)
+![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white)\
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white)
 
 ## Web Development
@@ -52,8 +52,6 @@ I also have an unreasonable huge love for Markdown.
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=NeroAiur&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=NeroAiur&theme=github_dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=NeroAiur&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)\
+![](https://nirzak-streak-stats.vercel.app/?user=NeroAiur&theme=github_dark&hide_border=false)\
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NeroAiur&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
